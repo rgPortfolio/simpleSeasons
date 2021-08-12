@@ -1,0 +1,1 @@
+A very simple app to show the season in cold or hot. This was used to then have a production build become a github page at one time
